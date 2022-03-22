@@ -34,3 +34,8 @@ h2 {
     color: white;
     margin: 0 5px;
 }
+
+.pressed { 
+    background: yellow;
+    color: black;
+}
